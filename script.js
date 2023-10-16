@@ -9,3 +9,4 @@ textareaEl.addEventListener("input", (e)=>{
     totalEl.innerHTML=len;
     remainingEl.innerText=50-len;
 });
+//hgdfghdf
